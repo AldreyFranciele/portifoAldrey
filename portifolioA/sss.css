@@ -1,0 +1,40 @@
+h1{
+color: rgb(27, 24, 24);
+font-family: sans-serif;
+font-size: 50px;
+text-align: center;
+}
+body{
+    background-image: url(./img/imagemmm.jpg);
+}
+p{
+font-size: 30px;
+font-family: cursive;
+color: blueviolet;
+padding: 3px;
+}
+.Bs{
+font-size: 40px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: rgb(127, 178, 255);
+text-align: center;
+}
+h2{
+ font-size: 40px;
+ color: rgb(0, 0, 0);
+ font-family: monospace;
+}
+li{
+font-size: 25px;
+color: rgb(23, 116, 209);
+}
+img{
+height: 150px;
+height: 150px;
+border: 3px solid rgb(129, 6, 27);
+}
+.ui{
+    text-align: center;
+
+
+}
